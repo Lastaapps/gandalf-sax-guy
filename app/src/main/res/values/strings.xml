@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gandalf Sax Guy</string>
+
+    <string name="counter_total">total</string>
+    <string name="counter_max">max</string>
+    <string name="counter_current">current</string>
+
+    <string name="next_desc">Next</string>
+    <string name="prev_desc">Previous</string>
+    <string name="youtube_desc">Open YouTube video</string>
+
+    <string name="author">By Lasta Apps, 2022</string>
+
+    <string name="time_format_days">%dd %d:%02d:%02d</string>
+    <string name="time_format_hours">%d:%02d:%02d</string>
+    <string name="time_format_minutes">%02d:%02d</string>
+</resources>
